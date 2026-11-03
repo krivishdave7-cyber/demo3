@@ -1,10 +1,6 @@
 # Calculate a simple receipt.
 price = 2.00
-<<<<<<< HEAD
-quantity = 5
-=======
-quantity = 2
->>>>>>> byd
+quantity = 3
 total = price * quantity
 print(f"Total: ${total:.2f}")
 
